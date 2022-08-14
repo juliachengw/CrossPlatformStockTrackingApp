@@ -1,9 +1,12 @@
+**Summary**
+
 This project builds an app to track the stock details using Flutter, Dart and Finnhub API. 
 
 Here is the link to the demo: https://youtu.be/Isdbmh9RWlA
 
 
-List of features:
+
+**Feature**
 
 1. Search bar on top in home screen
 
@@ -17,6 +20,7 @@ List of features:
 
 
 
+**Screenshot**
 
 ![detailsPage](https://user-images.githubusercontent.com/44762874/184552825-26725dcd-0f41-42c6-8f97-bdbb23c15b49.png)
 ![homeScreen](https://user-images.githubusercontent.com/44762874/184552826-de335917-89c0-430a-b6a4-e5f6f54f5578.png)
